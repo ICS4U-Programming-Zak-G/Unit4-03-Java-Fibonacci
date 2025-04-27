@@ -1,0 +1,7 @@
+The term of 0 is 0
+The term of 12 is 144
+-8 is not a positive integer.
+1.6 is not a positive integer.
+hi is not a positive integer.
+ is not a positive integer.
+The term of 1 is 1
